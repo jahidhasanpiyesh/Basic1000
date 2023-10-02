@@ -1,6 +1,10 @@
 """
 Conditions  >>> Find the Sum of Numbers in a given Range in Python ?
 
+Given two integer inputs as the range [ low , high ], the objective is to find the sum of the numbers that
+lay in the intervals given by the integer inputs. Therefore, we’ll write a code to Find the Sum of the Numbers
+in a Given Range in Python Language.
+
 Input       >>> 2 5    explain >>>>> 2+3+4+5
 
 Output      >>> 14
