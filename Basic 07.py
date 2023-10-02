@@ -1,6 +1,9 @@
 """
 Conditions  >>> Python Program to Find the Sum of First N Natural Numbers thy this problem solve ?
 
+Given an integer input the objective is to write a code to Find the Sum of First N Natural Numbers in C++.
+To do so we simply keep adding the value of the iter variable using a for loop.
+
 Input       >>> num = 8
 
 Output      >>> 36   explain > 8 =  0, 1, 2, 3, 4, 5, 6, 7, 8
