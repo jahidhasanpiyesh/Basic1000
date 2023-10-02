@@ -1,6 +1,8 @@
 """
 conditions  >>>>>: Python Program to check if a Number Is Positive Or Negative try this problem is solved ?
 
+Given an integer input, The objective is to write a code to Check if a Number is Positive or Negative in C Language.
+
 input >>> any number just int type data
 
 output >>> just input number and show number is positive or negative !
