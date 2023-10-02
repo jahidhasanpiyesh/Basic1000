@@ -1,7 +1,7 @@
 """
 Conditions  >>> Find the Sum of Numbers in a given Range in Python ?
 
-Input       >>> 2 5
+Input       >>> 2 5    explain >>>>> 2+3+4+5
 
 Output      >>> 14
 """
