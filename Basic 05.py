@@ -9,8 +9,8 @@ output >>> just input number and show number is positive or negative !
 number = int(input("Enter the any Number :"))
 # use to three conditions if-elif-else
 if number >= 1:  # number is big to 1       45 56 566 its positive number
-    print("Positive")
+    print(number , " Is Positive Number")
 elif number == 0:  # number is equal to 0
-    print("Zero")
-else:   # number is small to 1            -56 -9969 -1 -2 its negative number
-    print("Negative")
+    print(number , "Is Zero")
+else:  # number is small to 1            -56 -9969 -1 -2 its negative number
+    print(number , "Is Negative Number")
