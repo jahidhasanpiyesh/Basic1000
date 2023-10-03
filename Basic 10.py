@@ -10,9 +10,7 @@ Output      >>> It's a Leap Year.
 """
 
 year = int(input("Enter The Any Year :"))
-if year % 4 == 0 :
-    print("leap year")
-elif year % 100 == 0 and year % 400 == 0:
-    print("leap year")
+if year % 100 != 0 and year % 4 == 0 or year % 400 == 0:
+    print("Leap Year")
 else:
-    print("not a leap year")
+    print("Not a leap year")
